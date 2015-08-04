@@ -1,3 +1,2 @@
-MvcApplicationIntro/.vs/config/applicationhost.config
-MvcApplicationIntro/MvcApplicationIntro/bin/
-MvcApplicationIntro/MvcApplicationIntro/obj/
+/MvcApplicationIntro/MvcApplicationIntro/bin
+/MvcApplicationIntro/MvcApplicationIntro/obj
